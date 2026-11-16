@@ -1,0 +1,72 @@
+/*General page*/
+body{
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: floralwhite;
+    color: black;
+    line-height: 1.6;
+}
+
+/*Header */
+header{
+    background-color: black;
+    color: white;
+    padding:22px 15px;
+    text-align: center;
+    border-bottom: 4px solid firebrick;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 32px;
+    letter-spacing: 3px;
+}
+
+/*Navigation */
+nav { 
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 14px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: gold;
+}
+
+/*Main content */
+
+main {
+    max-width: 1000px;
+    margin: 35px auto;
+    padding: 30px;
+    background-color: white;
+    border: 1px solid antiquewhite;
+    border-radius: 8px;   
+}
+
+/*Headings */
+h2{
+    color: firebrick;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+h3{
+    color: black;
+    margin-bottom: 8px;
+}
+
+/*Paragraphs */
+
+p{
+    margin-top: 8px;
+    margin-bottom: 15px;
+}

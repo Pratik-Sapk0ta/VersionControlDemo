@@ -1,0 +1,8 @@
+murach\fv\RegisterServlet.class
+murach\fv\CartItem.class
+com\mycompany\pratiksapkotapos_finalproject\JakartaRestConfiguration.class
+com\mycompany\pratiksapkotapos_finalproject\resources\JakartaEE10Resource.class
+murach\fv\CartServlet.class
+murach\fv\LoginServlet.class
+murach\fv\DBConnection.class
+murach\fv\RestaurantServlet.class
